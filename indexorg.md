@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-این سایت مخصوص معرفی کتاب ماهیت واقعیت شخصی راه اندازی شده است
 
-<!-- a normal html comment --> Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
