@@ -21,3 +21,9 @@ layout: default
 <br/>  
 ماهیت واقعیت شخصی #ماهیت_واقعیت_شخصی
 </div>
+
+<div dir="ltr">
+Jane Roberts #Jane_Roberts
+<br/>  
+Nature of Personal Reality #NatureofPersonalRealiy #NaoPeRe
+</div>
