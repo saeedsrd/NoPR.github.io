@@ -14,6 +14,5 @@ layout: default
 </div>
 </div>
 
-<div dir="rtl">
+
 [کانال ماهیت واقعیت شخصی در تلگرام](https://t.me/NaoPeRe/3)
-</div>
