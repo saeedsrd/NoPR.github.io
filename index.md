@@ -21,7 +21,7 @@ layout: default
 <br/>  
 ماهیت واقعیت شخصی #ماهیت_واقعیت_شخصی
 </div>
-
+<p>&nbsp;</p>
 <div dir="ltr">
 Jane Roberts #Jane_Roberts
 <br/>  
