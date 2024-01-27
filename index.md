@@ -14,7 +14,7 @@ layout: default
 </div>
 
 
-[کانال ماهیت واقعیت شخصی در تلگرام](https://t.me/NaoPeRe/3)
+[**کانال ماهیت واقعیت شخصی در تلگرام**](https://t.me/NaoPeRe/3)
 
 <div dir="rtl">
 جین رابرتز #جین_رابرتز
