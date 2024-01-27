@@ -1,6 +1,10 @@
-title: ماهیت واقعیت شخصی
+title: <div style='text-align: center;'>
+  ماهیت واقعیت شخصی
+</div>
 logo: /assets/img/Logo.jpg
-description: کتابی از سِت/جین رابرتز/رابرت باتز
+description: <div style='text-align: center;'>
+کتابی از سِت/جین رابرتز/رابرت باتز
+</div>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
