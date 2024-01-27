@@ -1,3 +1,4 @@
+---
 title: <div style='text-align: center;'>
   ماهیت واقعیت شخصی
 </div>
@@ -8,3 +9,12 @@ description: <div style='text-align: center;'>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+---
+
+<style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  color: DarkRed;
+  text-align: center;
+}
